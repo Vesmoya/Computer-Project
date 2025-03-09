@@ -1,5 +1,7 @@
 # Computer-Project
-Game project for university.
+Game project for university
+
+This game is developed using Unity
 
 # ARPG Game
 
