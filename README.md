@@ -3,6 +3,8 @@ Game project for university
 
 This game is developed using Unity
 
+Demo video: https://youtu.be/2zbQqHtWack
+
 # ARPG Game
 
 ## Overview
